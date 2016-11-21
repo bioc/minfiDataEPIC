@@ -6,6 +6,8 @@ save(RGsetEPIC,
 MsetEPIC <- preprocessRaw(RGsetEPIC)
 save(MsetEPIC, 
 	file = "../../data/MsetEPIC.rda", compress = "xz")
+sessionInfo()
+q(save = "no")
 
 
 

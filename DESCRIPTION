@@ -1,14 +1,11 @@
 Package: minfiDataEPIC
-Version: 1.1.0
+Version: 1.1.1
 Title: Example data for the Illumina Methylation EPIC array
-Description: Data from 3 technical replicates of the cell line GM12878
-        from the EPIC methylation array.
+Description: Data from 3 technical replicates of the cell line GM12878 from the EPIC methylation array. 
 Author: Jean-Philippe Fortin, Kasper Daniel Hansen
 Maintainer: Kasper Daniel Hansen <kasperdanielhansen@gmail.com>
 License: Artistic-2.0
-Depends: R (>= 3.3), minfi (>= 1.18.2),
-        IlluminaHumanMethylationEPICmanifest,
-        IlluminaHumanMethylationEPICanno.ilm10b2.hg19
+Depends: R (>= 3.3), minfi (>= 1.21.2), IlluminaHumanMethylationEPICmanifest, IlluminaHumanMethylationEPICanno.ilm10b2.hg19
 LazyData: yes
 biocViews: Homo_sapiens_Data, MethylationArrayData, MicroarrayData
 NeedsCompilation: no
