@@ -1,0 +1,11 @@
+[Header],,,,,,
+Investigator Name,BretBarnes,,,,,
+Project Name,DNA Methylation,,,,,
+Experiment Name,EPIC Beta,,,,,
+Date,5-Oct-15,,,,,
+,,,,,,
+[Data],,,,,,
+Sample_Name,Sample_Well,Sample_Plate,Sample_Group,Pool_ID,Sentrix_ID,Sentrix_Position
+NA12878.1,,,Group1,,200144450018,R04C01
+NA12878.2,,,Group2,,200144450019,R07C01
+NA12878.3,,,Group3,,200144450021,R05C01
