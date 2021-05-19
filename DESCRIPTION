@@ -1,5 +1,5 @@
 Package: minfiDataEPIC
-Version: 1.17.0
+Version: 1.18.0
 Title: Example data for the Illumina Methylation EPIC array
 Description: Data from 3 technical replicates of the cell line GM12878 from the EPIC methylation array. 
 Author: Jean-Philippe Fortin, Kasper Daniel Hansen
