@@ -1,5 +1,0 @@
-data
-inst/extdata/200144450018
-inst/extdata/200144450019
-inst/extdata/200144450021
-inst/extdata
